@@ -20,11 +20,11 @@ I'm a Computer Science & Engineering student at The Ohio State University (Class
 > An emotionally aware AI therapy chatbot with real-time sentiment analysis, TTS/STT features, and session transcript export  
 *Flask · RoBERTa · Hugging Face · GTTS · Web Speech API*
 
-### [Flight Price Predictor](https://github.com/johanangabraham/flight-price-predictor)  
+### [Flight Price Predictor](https://github.com/johananabraham/FlightPricePredictor)  
 > ML model that predicts airfare prices based on trends, achieving 98.6% accuracy with Random Forests & Linear Regression  
 *Jupyter · scikit-learn · pandas · matplotlib*
 
-### [Gym Management App](https://github.com/johanangabraham/full-stack-gym-app)  
+### [Gym Management App](https://github.com/johananabraham/GymMembership)  
 > Full-stack membership management platform built with the MERN stack  
 *MongoDB · Express.js · React · Node.js*
 
