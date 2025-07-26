@@ -16,6 +16,11 @@ I'm a Computer Science & Engineering student at The Ohio State University (Class
 
 ## 💼 Featured Projects
 
+### [Family Management System](https://github.com/johananabraham/Springboot)
+
+> A Spring Boot backend built to manage families and members for an 80+ member chapel, with secure AWS RDS integration and full RESTful API support
+Spring Boot · Java 21 · AWS RDS · Spring Data JPA · Jakarta Validation
+
 ### [Therabot](https://github.com/johananabraham/Therabot)  
 > An emotionally aware AI therapy chatbot with real-time sentiment analysis, TTS/STT features, and session transcript export  
 *Flask · RoBERTa · Hugging Face · GTTS · Web Speech API*
