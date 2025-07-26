@@ -7,7 +7,7 @@ I'm a Computer Science & Engineering student at The Ohio State University (Class
 ## 🔧 Tech Stack
 
 **Languages**: Java · Python · JavaScript · C/C++ · HTML/CSS · Ruby  
-**Frameworks**: Flask · React · Node.js · Ruby on Rails  
+**Frameworks**: Flask · React · Node.js · Ruby on Rails  · Spring Boot
 **Tools**: Git · GitHub · Docker · AWS · VS Code · Postman  
 **Databases**: PostgreSQL · MongoDB  
 **AI/ML**: Hugging Face Transformers · scikit-learn · pandas · NumPy
@@ -16,7 +16,7 @@ I'm a Computer Science & Engineering student at The Ohio State University (Class
 
 ## 💼 Featured Projects
 
-### [Therabot](https://github.com/johanangabraham/therabot)  
+### [Therabot](https://github.com/johananabraham/Therabot)  
 > An emotionally aware AI therapy chatbot with real-time sentiment analysis, TTS/STT features, and session transcript export  
 *Flask · RoBERTa · Hugging Face · GTTS · Web Speech API*
 
